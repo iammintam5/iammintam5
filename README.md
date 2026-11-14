@@ -1,111 +1,119 @@
 <div align="center">
 
-<img src="./assets/hero-modern.svg" alt="Huynh Minh Tam — aspiring Backend / Fullstack Developer" width="100%" />
+  <!-- Animated Aurora Hero Banner -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
+    <img alt="Huynh Minh Tam — Full-Stack Developer" src="./assets/hero-dark.svg" width="100%" />
+  </picture>
 
-<br/>
+  <!-- Live Typing Effect -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=70A5FD&center=true&vCenter=true&width=760&height=38&lines=Architecting+Modular+Backend+APIs+with+NestJS+%26+Node.js;Building+Fast,+Type-Safe+Web+UIs+with+React+%26+Next.js;Designing+Relational+Schemas+%26+Distributed+Query+Engines;Turning+Complex+Problems+into+Clean,+Scalable+Software" />
+      <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=0284C7&center=true&vCenter=true&width=760&height=38&lines=Architecting+Modular+Backend+APIs+with+NestJS+%26+Node.js;Building+Fast,+Type-Safe+Web+UIs+with+React+%26+Next.js;Designing+Relational+Schemas+%26+Distributed+Query+Engines;Turning+Complex+Problems+into+Clean,+Scalable+Software" />
+      <img alt="Typing SVG" src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&duration=3200&pause=1100&color=70A5FD&center=true&vCenter=true&width=760&height=38&lines=Architecting+Modular+Backend+APIs+with+NestJS+%26+Node.js;Building+Fast,+Type-Safe+Web+UIs+with+React+%26+Next.js;Designing+Relational+Schemas+%26+Distributed+Query+Engines;Turning+Complex+Problems+into+Clean,+Scalable+Software" />
+    </picture>
+  </p>
 
-<a href="mailto:huynhminhtam8842@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-102638?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1524" alt="Email"/></a>
-<a href="https://github.com/iammintam5?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore_Projects-102638?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0B1524" alt="Explore repositories"/></a>
-<img src="https://komarev.com/ghpvc/?username=iammintam5&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
+  <!-- Quick Connect Buttons -->
+  <p align="center">
+    <a href="mailto:huynhminhtam8842@gmail.com"><img src="https://img.shields.io/badge/Email-huynhminhtam8842%40gmail.com-2563EB?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/iammintam5?tab=repositories"><img src="https://img.shields.io/badge/Repositories-15%2B%20Projects-0D9488?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" alt="GitHub Repositories" /></a>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=iammintam5&style=for-the-badge&color=6366F1&labelColor=1A1B27&label=PROFILE+VIEWS" alt="Profile Views" />
+    <!-- Uncomment to add LinkedIn or Portfolio:
+    &nbsp;&nbsp;<a href="https://linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" alt="LinkedIn" /></a>
+    -->
+  </p>
 
-</div>
+  <br />
 
-## 01 / About me
-
-I'm **Huynh Minh Tam**, an Information Technology student with an interest in **backend engineering** and **fullstack web development**. I build practical applications while strengthening my programming fundamentals, database skills, and understanding of web architecture.
-
-- 🎯 **Goal:** Fresher / Intern Backend or Fullstack Developer
-- 🌱 **Currently learning:** JavaScript, TypeScript, Node.js, Express, and NestJS
-- 🧩 **Interested in:** REST APIs, authentication, relational databases, and maintainable code
-- 📍 **Based in:** Ho Chi Minh City, Vietnam
-
-## 02 / Technologies I've worked with
-
-<div align="center">
-
-**Languages & UI**
-
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML and CSS"/>
-
-**Backend & Data**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,python&theme=dark" alt="Node.js, Express, NestJS, PostgreSQL, Prisma and Python"/>
-
-**Workflow**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
+  <!-- 3-Pillar Engineering Capabilities -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/highlights-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/highlights-light.svg" />
+    <img alt="Core Engineering Capabilities" src="./assets/highlights-dark.svg" width="100%" />
+  </picture>
 
 </div>
 
-> I'm actively learning these technologies. The icons represent tools used or explored in my projects, not expert-level proficiency.
+<br />
 
-## 03 / Featured projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏢 [Dormitory Facility Management](https://github.com/iammintam5/dormitory-facility-management)
-
-Fullstack dormitory management system for tracking rooms, assets, damage reports, and maintenance.
-
-**Highlights**
-- NestJS REST API and JWT authentication
-- Admin, manager, and student roles
-- React dashboard and PostgreSQL data storage
-
-`NestJS` `React` `TypeScript` `Prisma` `PostgreSQL`
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 [Distributed Query Optimizer](https://github.com/iammintam5/cbo_social_media)
-
-Interactive simulation exploring cost-based optimization strategies for distributed databases.
-
-**Highlights**
-- Query execution plan comparisons
-- Localization and semi-join scenarios
-- Streamlit interactive interface
-
-`Python` `Streamlit` `Distributed DB`
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-### 🧠 [Cost-Based Optimizer](https://github.com/iammintam5/cbo_project)
-
-Python simulation that models communication, CPU, and I/O costs to compare distributed query execution plans and select a lower-cost strategy.
-
-`Python` `Query Optimization` `Database Systems`
-
-</td>
-</tr>
-</table>
+### 🛠️ Tech Ecosystem & Tooling
 
 <div align="center">
-<a href="https://github.com/iammintam5?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0B1524?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all repositories"/></a>
+
+  <p><sub><strong>LANGUAGES &amp; MODERN FRONTEND</strong></sub></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,vite,html,css&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,vite,html,css&theme=light" />
+      <img alt="Frontend & Languages" src="https://skillicons.dev/icons?i=ts,js,py,react,nextjs,tailwind,vite,html,css&theme=dark" height="48" />
+    </picture>
+  </p>
+
+  <p><sub><strong>BACKEND, DATABASE &amp; DEVTOOLS</strong></sub></p>
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,jest,git,github,postman,vscode&theme=dark" />
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,jest,git,github,postman,vscode&theme=light" />
+      <img alt="Backend, Database & DevTools" src="https://skillicons.dev/icons?i=nodejs,nestjs,express,prisma,postgres,jest,git,github,postman,vscode&theme=dark" height="48" />
+    </picture>
+  </p>
+
 </div>
 
-## 04 / GitHub activity
+<br />
+
+### 🚀 Featured Engineering Projects
+
+<p align="center">
+  <a href="https://github.com/iammintam5/dormitory-facility-management"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-dormitory-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-dormitory-light.svg" /><img alt="Dormitory Facility Management System" src="./assets/project-dormitory-dark.svg" width="49%" /></picture></a>
+  <a href="https://github.com/iammintam5/cbo_social_media"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-cbo-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-cbo-light.svg" /><img alt="Distributed Query Optimizer" src="./assets/project-cbo-dark.svg" width="49%" /></picture></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/iammintam5/N23DCCN052_HuynhMinhTam_Lab3_Fullstack-shop"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-shop-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-shop-light.svg" /><img alt="Modern E-Commerce Platform" src="./assets/project-shop-dark.svg" width="49%" /></picture></a>
+  <a href="https://github.com/iammintam5?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-more-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-more-light.svg" /><img alt="Explore All Repositories" src="./assets/project-more-dark.svg" width="49%" /></picture></a>
+</p>
+
+<br />
+
+### 📊 GitHub Analytics & Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammintam5&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammintam5&theme=github" />
+    <img alt="GitHub Profile Summary" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iammintam5&theme=tokyonight" width="99%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammintam5&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammintam5&theme=github" />
+    <img alt="GitHub Stats" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iammintam5&theme=tokyonight" width="49%" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammintam5&theme=tokyonight" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammintam5&theme=github" />
+    <img alt="Top Languages" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iammintam5&theme=tokyonight" width="49%" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iammintam5/iammintam5/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iammintam5/iammintam5/output/github-snake.svg" />
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/iammintam5/iammintam5/output/github-snake-dark.svg" width="100%" />
+  </picture>
+</p>
+
+<br />
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=iammintam5&show_icons=true&hide_border=true&theme=github_dark&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="155" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammintam5&layout=compact&hide_border=true&theme=github_dark&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="155" alt="Top languages"/>
-</div>
-
-<sub>Activity cards depend on third-party services and may sometimes be unavailable. Language statistics reflect repository code, not skill level.</sub>
-
----
-
-<div align="center">
-
-**Open to Fresher / Intern Backend & Fullstack opportunities**
-
-<a href="mailto:huynhminhtam8842@gmail.com">Get in touch</a> · <a href="https://github.com/iammintam5">GitHub</a>
-
-<sub>Keep building. Keep learning. Keep improving.</sub>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
+    <img alt="Footer — Huynh Minh Tam" src="./assets/footer-dark.svg" width="100%" />
+  </picture>
 </div>
