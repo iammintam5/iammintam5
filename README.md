@@ -74,7 +74,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
 <p align="left">
   <picture>
@@ -84,7 +84,7 @@
   </picture>
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <p align="center">
   <a href="https://github.com/Longdev1701/Real_Estate_Transaction_Platform"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/project-realestate-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="./assets/project-realestate-light.svg" /><img alt="Real Estate Platform" src="./assets/project-realestate-dark.svg" width="32.4%" /></picture></a>
