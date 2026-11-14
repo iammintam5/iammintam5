@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 276 208" width="276" height="208" role="img" aria-label="Order &amp; Commerce System">
+  <defs>
+    <style>
+      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; }
+      .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+    </style>
+  </defs>
+
+  <rect x="1" y="1" width="274" height="206" rx="8" fill="#ffffff" stroke="#d0d7de" stroke-width="1.2" />
+
+  <!-- Top Emerald Tag & External Arrow -->
+  <rect x="16" y="15" width="186" height="21" rx="10.5" fill="#dafbe1" stroke="#1a7f37" stroke-opacity="0.4" stroke-width="1" />
+  <text x="109" y="29" text-anchor="middle" class="mono" font-size="9.2" font-weight="600" fill="#1a7f37" letter-spacing="0.3">ORDER • MICROSERVICES</text>
+  <path d="M249 29 L257 21 M251 21 H257 V27" fill="none" stroke="#1a7f37" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" />
+
+  <!-- Repo Icon + Title -->
+  <path d="M18 53.5A2.5 2.5 0 0120.5 51h8A1.5 1.5 0 0130 52.5v12a.5.5 0 01-.5.5h-9a1.5 1.5 0 00-1.5 1.5v-13z" fill="none" stroke="#57606a" stroke-width="1.3" />
+  <text x="36" y="63" class="sans" font-size="15.2" font-weight="700" fill="#0969da">Order &amp; Commerce System</text>
+
+  <!-- Description -->
+  <text x="16" y="92" class="sans" font-size="12" fill="#57606a">Distributed order &amp; shop backend</text>
+  <text x="16" y="111" class="sans" font-size="12" fill="#57606a">orchestrating Gateway, Order, Product</text>
+  <text x="16" y="130" class="sans" font-size="12" fill="#57606a">&amp; Auth services with Redis &amp; Docker.</text>
+
+  <!-- Bottom Meta -->
+  <line x1="16" y1="158" x2="260" y2="158" stroke="#eaeef2" stroke-width="1" />
+  <circle cx="22" cy="181" r="4.5" fill="#3fb950" />
+  <text x="32" y="185" class="sans" font-size="11.5" font-weight="600" fill="#24292f">Node.js</text>
+  <text x="260" y="185" text-anchor="end" class="mono" font-size="10" font-weight="500" fill="#57606a">Express · Redis · Docker</text>
+</svg>

@@ -16,13 +16,13 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 5
     steps:
-      - name: Generate Tokyo-Night & Light Contribution Snake SVGs
+      - name: Generate GitHub Emerald Contribution Snake SVGs
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg?color_snake=#4f46e5&color_dots=#ebedf0,#bae6fd,#38bdf8,#0284c7,#4f46e5
-            dist/github-snake-dark.svg?palette=github-dark&color_snake=#bf91f3&color_dots=#161b22,#1e3a5f,#2563eb,#70a5fd,#38bdae
+            dist/github-snake.svg?color_snake=#216e39&color_dots=#ebedf0,#9be9a8,#40c463,#30a14e,#216e39
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=#40c463&color_dots=#161b22,#0e4429,#006d32,#26a641,#40c463
 
       - name: Deploy Snake SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v4
