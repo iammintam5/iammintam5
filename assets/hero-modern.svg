@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="315" viewBox="0 0 1200 315" role="img" aria-label="Huynh Minh Tam — Backend and Fullstack Developer">
+<defs>
+<linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111e"/><stop offset="1" stop-color="#101c2e"/></linearGradient>
+<linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" stroke="#294057" stroke-opacity=".28" fill="none"/></pattern>
+<filter id="glow"><feGaussianBlur stdDeviation="28"/></filter>
+</defs>
+<rect width="1200" height="315" rx="20" fill="url(#b)"/>
+<rect width="1200" height="315" rx="20" fill="url(#grid)"/>
+<circle cx="1050" cy="45" r="130" fill="#0891b2" opacity=".18" filter="url(#glow)"/>
+<circle cx="1010" cy="265" r="110" fill="#6366f1" opacity=".13" filter="url(#glow)"/>
+<path d="M842 60h264M842 90h200M842 120h244" stroke="#244056" stroke-width="2" stroke-linecap="round"/>
+<g fill="none" stroke="#22d3ee" stroke-opacity=".6" stroke-width="2">
+<path d="M900 172l-28 28 28 28"/><path d="M1002 172l28 28-28 28"/><path d="M971 166l-36 69" />
+</g>
+<rect x="36" y="35" width="202" height="29" rx="14.5" fill="#10384a" stroke="#1d657c"/>
+<circle cx="54" cy="49.5" r="4" fill="#22d3ee"/>
+<text x="68" y="54" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1.7" fill="#a5f3fc">HELLO, I'M</text>
+<text x="36" y="142" font-family="Arial, sans-serif" font-size="62" font-weight="800" fill="#f8fafc">HUYNH MINH TAM</text>
+<rect x="36" y="163" width="390" height="4" rx="2" fill="url(#g)"/>
+<text x="36" y="210" font-family="Arial, sans-serif" font-size="25" font-weight="600" fill="#b4cbdf">Aspiring Backend / Fullstack Developer</text>
+<text x="36" y="253" font-family="Arial, sans-serif" font-size="17" fill="#8aa5bc">TypeScript   •   Node.js   •   NestJS   •   React</text>
+<text x="36" y="287" font-family="Arial, sans-serif" font-size="14" fill="#5d8199">BUILDING • LEARNING • IMPROVING</text>
+</svg>
