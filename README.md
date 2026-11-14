@@ -1,181 +1,111 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg" />
-    <img alt="Huynh Minh Tam — Full-Stack Developer" src="./assets/hero-dark.svg" width="100%" />
-  </picture>
 
-  <br />
+<img src="./assets/hero-modern.svg" alt="Huynh Minh Tam — aspiring Backend / Fullstack Developer" width="100%" />
 
-  <p>
-    <a href="mailto:huynhminhtam8842@gmail.com">
-      <img src="https://img.shields.io/badge/Email-huynhminhtam8842%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=1E293B" alt="Email" />
-    </a>
-    <a href="https://github.com/iammintam5?tab=repositories">
-      <img src="https://img.shields.io/badge/GitHub-@iammintam5-0F172A?style=for-the-badge&logo=github&logoColor=38BDF8&labelColor=1E293B" alt="GitHub" />
-    </a>
-    <!-- Uncomment & update URLs below when ready:
-    <a href="https://linkedin.com/in/your-handle">
-      <img src="https://img.shields.io/badge/LinkedIn-Huynh%20Minh%20Tam-0F172A?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=1E293B" alt="LinkedIn" />
-    </a>
-    -->
-  </p>
+<br/>
+
+<a href="mailto:huynhminhtam8842@gmail.com"><img src="https://img.shields.io/badge/EMAIL-Contact_Me-102638?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0B1524" alt="Email"/></a>
+<a href="https://github.com/iammintam5?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-Explore_Projects-102638?style=for-the-badge&logo=github&logoColor=22D3EE&labelColor=0B1524" alt="Explore repositories"/></a>
+<img src="https://komarev.com/ghpvc/?username=iammintam5&style=for-the-badge&color=0e7490&label=PROFILE+VIEWS" alt="Profile views"/>
+
 </div>
 
----
+## 01 / About me
 
-### About Me
+I'm **Huynh Minh Tam**, an Information Technology student with an interest in **backend engineering** and **fullstack web development**. I build practical applications while strengthening my programming fundamentals, database skills, and understanding of web architecture.
 
-<table width="100%">
-  <tr>
-    <td width="54%" valign="top">
-      <p>
-        I'm <strong>Huynh Minh Tam</strong>, a <strong>Full-Stack Developer</strong> based in Ho Chi Minh City, Vietnam, pursuing Information Technology at <strong>PTIT HCMC</strong>.
-      </p>
-      <p>
-        I focus on building reliable, maintainable web applications end-to-end — pairing clean, modular backend APIs (<strong>NestJS, Express, Prisma, PostgreSQL</strong>) with responsive, type-safe interfaces (<strong>React, Next.js, TypeScript, Tailwind CSS</strong>). Alongside full-stack web engineering, I enjoy working on distributed database systems and query optimization with <strong>Python</strong>.
-      </p>
-    </td>
-    <td width="46%" valign="top">
-      <strong>Engineering Focus</strong>
-      <ul>
-        <li><strong>Backend Architecture:</strong> Modular REST APIs, JWT &amp; RBAC authorization, strict DTO validation, and audit logging.</li>
-        <li><strong>Modern Frontend:</strong> Type-safe React &amp; Next.js applications, Tailwind CSS design systems, and interactive dashboards.</li>
-        <li><strong>Data &amp; Systems:</strong> Relational schema design, ORM lifecycle management, and distributed query cost optimization.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+- 🎯 **Goal:** Fresher / Intern Backend or Fullstack Developer
+- 🌱 **Currently learning:** JavaScript, TypeScript, Node.js, Express, and NestJS
+- 🧩 **Interested in:** REST APIs, authentication, relational databases, and maintainable code
+- 📍 **Based in:** Ho Chi Minh City, Vietnam
 
----
-
-### Tech Stack & Tooling
-
-<table width="100%">
-  <tr>
-    <td width="22%"><strong>Languages</strong></td>
-    <td width="78%">
-      <img src="https://img.shields.io/badge/TypeScript-0F172A?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-      <img src="https://img.shields.io/badge/JavaScript-0F172A?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-      <img src="https://img.shields.io/badge/Python-0F172A?style=flat-square&logo=python&logoColor=3776AB" alt="Python" />
-      <img src="https://img.shields.io/badge/SQL-0F172A?style=flat-square&logo=postgresql&logoColor=38BDF8" alt="SQL" />
-      <img src="https://img.shields.io/badge/HTML5-0F172A?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5" />
-      <img src="https://img.shields.io/badge/CSS3-0F172A?style=flat-square&logo=css&logoColor=38BDF8" alt="CSS3" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Frontend</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/React-0F172A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Next.js-0F172A?style=flat-square&logo=nextdotjs&logoColor=FFFFFF" alt="Next.js" />
-      <img src="https://img.shields.io/badge/Tailwind_CSS-0F172A?style=flat-square&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS" />
-      <img src="https://img.shields.io/badge/Vite-0F172A?style=flat-square&logo=vite&logoColor=646CFF" alt="Vite" />
-      <img src="https://img.shields.io/badge/React_Hook_Form-0F172A?style=flat-square&logo=reacthookform&logoColor=EC5990" alt="React Hook Form" />
-      <img src="https://img.shields.io/badge/Zod-0F172A?style=flat-square&logo=zod&logoColor=3E67B1" alt="Zod" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Backend &amp; API</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Node.js-0F172A?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
-      <img src="https://img.shields.io/badge/NestJS-0F172A?style=flat-square&logo=nestjs&logoColor=E0234E" alt="NestJS" />
-      <img src="https://img.shields.io/badge/Express.js-0F172A?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js" />
-      <img src="https://img.shields.io/badge/Prisma_ORM-0F172A?style=flat-square&logo=prisma&logoColor=38BDF8" alt="Prisma" />
-      <img src="https://img.shields.io/badge/JWT_Auth-0F172A?style=flat-square&logo=jsonwebtokens&logoColor=F43F5E" alt="JWT" />
-      <img src="https://img.shields.io/badge/REST_API-0F172A?style=flat-square&logo=openapiinitiative&logoColor=6BA539" alt="REST API" />
-    </td>
-  </tr>
-  <tr>
-    <td><strong>Data &amp; DevTools</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/PostgreSQL-0F172A?style=flat-square&logo=postgresql&logoColor=4169E1" alt="PostgreSQL" />
-      <img src="https://img.shields.io/badge/Streamlit-0F172A?style=flat-square&logo=streamlit&logoColor=FF4B4B" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Pandas-0F172A?style=flat-square&logo=pandas&logoColor=818CF8" alt="Pandas" />
-      <img src="https://img.shields.io/badge/Plotly-0F172A?style=flat-square&logo=plotly&logoColor=38BDF8" alt="Plotly" />
-      <img src="https://img.shields.io/badge/Jest-0F172A?style=flat-square&logo=jest&logoColor=C21325" alt="Jest" />
-      <img src="https://img.shields.io/badge/Git-0F172A?style=flat-square&logo=git&logoColor=F05032" alt="Git" />
-      <img src="https://img.shields.io/badge/GitHub-0F172A?style=flat-square&logo=github&logoColor=FFFFFF" alt="GitHub" />
-    </td>
-  </tr>
-</table>
-
----
-
-### Featured Projects
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/iammintam5/dormitory-facility-management">Dormitory Facility Management System</a>
-      </h4>
-      <p>
-        End-to-end web platform managing dormitory buildings, room allocation, asset lifecycles, damage reporting, maintenance scheduling, and liquidation workflows. Engineered with 3-tier Role-Based Access Control (Admin, Manager, Student), analytics charts, QR support, and system-wide audit logs.
-      </p>
-      <p>
-        <code>NestJS</code>
-        <code>PostgreSQL</code>
-        <code>Prisma</code>
-        <code>JWT</code>
-        <code>React 18</code>
-        <code>TypeScript</code>
-        <code>Tailwind CSS</code>
-        <code>Recharts</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/iammintam5/cbo_social_media">Distributed DB Cost-Based Optimizer</a>
-      </h4>
-      <p>
-        Interactive simulation prototype modeling query execution plans across a distributed social media database. Benchmarks fragment localization, pruning, and semi-join optimization strategies to evaluate and minimize cross-node communication costs.
-      </p>
-      <p>
-        <code>Python</code>
-        <code>Distributed DB</code>
-        <code>Query Optimization</code>
-        <code>Streamlit</code>
-        <code>Pandas</code>
-        <code>Plotly</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/iammintam5/N23DCCN052_HuynhMinhTam_Lab3_Fullstack-shop">Full-Stack E-Commerce Platform</a>
-      </h4>
-      <p>
-        Decoupled client-server storefront architecture combining a modern Next.js &amp; React 19 user interface with a lightweight Express REST API backend, responsive product browsing, and clean state interactions.
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>React 19</code>
-        <code>TypeScript</code>
-        <code>Tailwind CSS</code>
-        <code>Express.js</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>
-        <a href="https://github.com/iammintam5?tab=repositories">More Projects &amp; Coursework</a>
-      </h4>
-      <p>
-        Explore additional repositories covering full-stack web engineering labs, distributed query simulation engines (<code>cbo_project</code>), RESTful service design, and modern frontend development practices.
-      </p>
-      <p>
-        <a href="https://github.com/iammintam5?tab=repositories"><strong>Explore all repositories &rarr;</strong></a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-<br />
+## 02 / Technologies I've worked with
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/footer-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/footer-light.svg" />
-    <img alt="Footer — Huynh Minh Tam" src="./assets/footer-dark.svg" width="100%" />
-  </picture>
+
+**Languages & UI**
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,tailwind,html,css&theme=dark" alt="JavaScript, TypeScript, React, Next.js, Tailwind CSS, HTML and CSS"/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,postgres,prisma,python&theme=dark" alt="Node.js, Express, NestJS, PostgreSQL, Prisma and Python"/>
+
+**Workflow**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Git, GitHub, VS Code and Postman"/>
+
+</div>
+
+> I'm actively learning these technologies. The icons represent tools used or explored in my projects, not expert-level proficiency.
+
+## 03 / Featured projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 [Dormitory Facility Management](https://github.com/iammintam5/dormitory-facility-management)
+
+Fullstack dormitory management system for tracking rooms, assets, damage reports, and maintenance.
+
+**Highlights**
+- NestJS REST API and JWT authentication
+- Admin, manager, and student roles
+- React dashboard and PostgreSQL data storage
+
+`NestJS` `React` `TypeScript` `Prisma` `PostgreSQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 [Distributed Query Optimizer](https://github.com/iammintam5/cbo_social_media)
+
+Interactive simulation exploring cost-based optimization strategies for distributed databases.
+
+**Highlights**
+- Query execution plan comparisons
+- Localization and semi-join scenarios
+- Streamlit interactive interface
+
+`Python` `Streamlit` `Distributed DB`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🧠 [Cost-Based Optimizer](https://github.com/iammintam5/cbo_project)
+
+Python simulation that models communication, CPU, and I/O costs to compare distributed query execution plans and select a lower-cost strategy.
+
+`Python` `Query Optimization` `Database Systems`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://github.com/iammintam5?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_REPOSITORIES-0B1524?style=for-the-badge&logo=github&logoColor=22D3EE" alt="View all repositories"/></a>
+</div>
+
+## 04 / GitHub activity
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=iammintam5&show_icons=true&hide_border=true&theme=github_dark&title_color=22D3EE&icon_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="155" alt="GitHub stats"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammintam5&layout=compact&hide_border=true&theme=github_dark&title_color=22D3EE&text_color=CBD5E1&bg_color=0D1117" height="155" alt="Top languages"/>
+</div>
+
+<sub>Activity cards depend on third-party services and may sometimes be unavailable. Language statistics reflect repository code, not skill level.</sub>
+
+---
+
+<div align="center">
+
+**Open to Fresher / Intern Backend & Fullstack opportunities**
+
+<a href="mailto:huynhminhtam8842@gmail.com">Get in touch</a> · <a href="https://github.com/iammintam5">GitHub</a>
+
+<sub>Keep building. Keep learning. Keep improving.</sub>
+
 </div>
